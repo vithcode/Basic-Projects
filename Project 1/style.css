@@ -26,17 +26,19 @@
 
   .top_section h1{
     font-size: 50px;
-    font-weight: bold;
+    font-family: Inter;
+    font-weight: 500;
     color:#1D1E4C;
     text-transform: uppercase;
   }
   .top_section h4{
     text-align: end;
+    font-family: Inter;
   }
 
 .img_container{
     border-radius: 50%;
-    overflow:hidden
+    overflow:hidden;
 }
 
 .img_container, img{
@@ -45,3 +47,25 @@ height:320px;
 }
 
 /* top section ends here */
+
+/* About section starts here */
+
+.about_section{
+  margin-top: 50px;
+}
+.about_section h2{
+font-size:60px;
+font-family: Inter;
+margin-top: 100px;
+margin-bottom: 20px;
+font-weight: 500;
+}
+
+.about_section p{
+  font-size: :20px;
+  line-height: 30px;
+  letter-spacing:  1.2px;
+}
+
+/* About section ends here */
+
