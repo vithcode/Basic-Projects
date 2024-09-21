@@ -69,3 +69,22 @@ font-weight: 500;
 
 /* About section ends here */
 
+/* Bigraphy section starts here */
+.Biography_section{
+  /* /* margin-top:50px; */
+  margin : 50px 0;
+}
+.Biography_section h3{
+  font-family: Inter;
+}
+  /* line-height: 20px; */
+  .Biography_section ul{
+    margin-top: 30px;
+    margin-left: 50px;
+    line-height: 30px;
+  }
+  /* .Biography_section li{
+    /* margin-bottom: 15px;} or this also we can do*/ 
+
+  /* Biography ends here */
+
