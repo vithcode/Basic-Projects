@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* <!-- Main Container Starts here --> */
 
 .container{
     background-color: #E5E5FD;
@@ -10,6 +11,9 @@
     border: 16px solid #1D1E4C
 
 }
+
+/* <!-- Main Content Starts here --> */
+
 .content{
     max-width: 900px;
     margin: 0 auto;
@@ -65,6 +69,9 @@ font-weight: 500;
   font-size: :20px;
   line-height: 30px;
   letter-spacing:  1.2px;
+  text-align:justify;
+  font-family: Inter;
+
 }
 
 /* About section ends here */
@@ -82,9 +89,24 @@ font-weight: 500;
     margin-top: 30px;
     margin-left: 50px;
     line-height: 30px;
+  font-family: Inter;
+
   }
   /* .Biography_section li{
     /* margin-bottom: 15px;} or this also we can do*/ 
 
   /* Biography ends here */
+  /* footer starts here */
+  footer {
+    margin-top: 50px;
+    text-align: end;
+    margin-bottom: 20px;
+  }
+  /* footer ends here */
+  
+/* <!-- Main Content Starts here --> */
+
+/* <!-- Main Container ends here --> */
+ 
+   
 
